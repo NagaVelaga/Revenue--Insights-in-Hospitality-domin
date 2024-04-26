@@ -1,4 +1,5 @@
 REVENUE INSIGHTS
+
 **Hospitality Domain Analysis using PowerBI**
 
 Project Overview: Enhancing Market Position for AtliQ Grands through Business and Data Intelligence
